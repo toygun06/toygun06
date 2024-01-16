@@ -1,5 +1,5 @@
 ### Hi there 👋
-![codewars badges](https://www.codewars.com/users/turnc/badges/small)
+![codewars badges](https://www.codewars.com/users/toyguny/badges/small)
 <!--
 **toygun06/toygun06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
