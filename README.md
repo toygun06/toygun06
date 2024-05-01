@@ -1,8 +1,9 @@
-<p align="left"><h1 align="center">Hi 👋, I'm Toygun</h1><br><h3 align="center">A passionate fullstack developer from Turkey</h3><br><br><br><p align="left"><br></p></p>
+<p align="left"><h1 align="center">Hi 👋, I'm Toygun</h1><h3 align="center">A passionate fullstack developer from Turkey</h3><br><br><p align="left"></p></p>
 
-###
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -30,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/toyguny/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -40,8 +41,11 @@
 </div>
 
 ###
+<hr>
 
-![codewars badges](https://www.codewars.com/users/toyguny/badges/small)
+<div align="center">
+  <img src="https://www.codewars.com/users/toyguny/badges/small">
+</div>
 <!--
 **toygun06/toygun06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
