@@ -1,4 +1,4 @@
-<p align="left"><h1 align="center">Hi 👋, I'm Toygun</h1><br><h3 align="center">A passionate fullstack developer from Turkey</h3><br><br><h3 align="left">Connect with me:</h3><br><p align="left"><br></p></p>
+<p align="left"><h1 align="center">Hi 👋, I'm Toygun</h1><br><h3 align="center">A passionate fullstack developer from Turkey</h3><br><br><br><p align="left"><br></p></p>
 
 ###
 
