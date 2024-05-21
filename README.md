@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toygun06&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=toygun06&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact />
 </div>
 
 
