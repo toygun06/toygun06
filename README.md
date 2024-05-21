@@ -42,12 +42,13 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=toygun06&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=toygun06&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+
 <hr>
 
 <div align="center">
   <img src="https://www.codewars.com/users/toyguny/badges/small">
 </div>
-
-
-
